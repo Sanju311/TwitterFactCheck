@@ -1,4 +1,4 @@
-# Insight - Twitter Fact-Checker
+# Insight.ai - Twitter Fact-Checker
 Fact-Check tweets instantly with Insight
 
 ## Introduction
